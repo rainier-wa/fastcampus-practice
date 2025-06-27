@@ -15,7 +15,7 @@ load_dotenv()
 # Perplexity? => LLM에 검색기능을 추가한 APP
 logging.langsmith("Perplexity")
 
-st.title("Perplexity 💬")
+st.title("Perplexity 💬_코드수정테스트")
 st.markdown(
     "LLM에 **웹검색 기능** 을 추가한 [Perplexity](https://www.perplexity.ai/) 클론 입니다. _멀티턴_ 대화를 지원합니다."
 )
